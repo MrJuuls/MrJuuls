@@ -43,8 +43,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Juul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJuuls&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrJuuls&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
@@ -74,8 +72,6 @@
 
 <div align="center">
   
-### 💚 Thanks for stopping by!
-
-![Visitor Count](https://profile-counter.glitch.me/MrJuuls/count.svg)
+### 💜 Thanks for stopping by!
 
 </div>
