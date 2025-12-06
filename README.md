@@ -46,8 +46,6 @@
   
 ![Juul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJuuls&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJuuls&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrJuuls&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
 </div>
@@ -63,15 +61,6 @@
 ---
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/MrJuuls/MrJuuls/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
