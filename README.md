@@ -4,7 +4,7 @@
 
 ### Game Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Building+cool+stuff+with+code;Always+learning+new+things;Let's+create+something+awesome!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9945FF&center=true&vCenter=true&width=435&lines=Building+cool+stuff+with+code;Always+learning+new+things;Let's+create+something+awesome!" alt="Typing SVG" />
 
 </div>
 
