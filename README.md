@@ -54,7 +54,7 @@
 
 🔪 **Silent Prey** - A horror-stealth game where you sneak around collecting weapons while avoiding a killer that hunts you by sound. Sprint and they'll hear your footsteps - stay quiet to survive! Built in Unity/C# for my Game Dev program at HvA.
 
-🌌 **Stargazer** - An astronomy exploration game where you play as a telescope, discovering planets, stars, and constellations. Each discovery comes with its own lore and information. My personal project to learn Unreal Engine outside of school.
+🌌 **Stargazer** - An astronomy exploration game where you play as a telescope, discovering planets, stars, and constellations. Each discovery comes with its own lore and information. My personal project to learn Unreal Engine outside of Uni.
 
 ---
 
