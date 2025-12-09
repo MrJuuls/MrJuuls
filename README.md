@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Juul! </h1>
 
-<h2 align="center">Game Developer | Unity & Unreal Engine Enthusiast</h2>
+<h2 align="center">Game Developer</h2>
 
 <div align="center">
   <img 
