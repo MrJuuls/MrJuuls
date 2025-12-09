@@ -60,28 +60,16 @@ An astronomy exploration game where you play as a telescope, discovering planets
 
 <p>
 
-
-
-
-<h3 align="left">🔥 My Stats:</h3>
+<h3 align="left"> My Stats:</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJuuls&layout=compact&theme=dark&hide_border=true&card_width=300" alt="MrJuuls Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=MrJuuls&show_icons=true&theme=dark&hide_border=true&card_width=400" alt="MrJuuls Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrJuuls&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" height="220" alt="streak graph" />
+![streak graph](https://github-readme-streak-stats.herokuapp.com/?user=MrJuuls&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
 </div>
 
 ---
 
-<h3 align="left">📊 Activity Graph</h3>
-
-<div align="center">
-    ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrJuuls&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00)
-</div>
-
 <p align="left">
-### 💜 Thanks for stopping by! Let's build something great.
+ 💜 Thanks for stopping by! Let's build something great.
 </p>
