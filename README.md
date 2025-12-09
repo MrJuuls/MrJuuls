@@ -47,35 +47,13 @@
 
 A horror-stealth game where you sneak around collecting weapons while avoiding a killer that hunts you by sound. Sprint and they'll hear your footsteps - stay quiet to survive! Built in Unity/C# for my Game Dev program at HvA.
 
-[▶️ Bekijk de Repo](https://github.com/MrJuuls/Silent-Prey)
 
 ### 🌌 Stargazer
 ![Status](https://img.shields.io/badge/Status-Personal%20Learning-green?style=for-the-badge)
 
 An astronomy exploration game where you play as a telescope, discovering planets, stars, and constellations. Each discovery comes with its own lore and information. My personal project to learn **Unreal Engine** outside of Uni.
 
-[▶️ Bekijk de Repo](https://github.com/MrJuuls/Stargazer)
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrJuuls&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrJuuls&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00)
-
-</div>
 
 ---
 
