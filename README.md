@@ -59,6 +59,6 @@ An astronomy exploration game where you play as a telescope, discovering planets
 
 <div align="center">
   
-### 💜 Thanks for stopping by! Let's build something great.
+ 💜 Thanks for stopping by! Let's build something great.
 
 </div>
