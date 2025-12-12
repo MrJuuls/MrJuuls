@@ -60,16 +60,6 @@ An astronomy exploration game where you play as a telescope, discovering planets
 
 <p>
 
-<h3 align="left"> My Stats:</h3>
-
-<div align="center">
-
-![streak graph](https://github-readme-streak-stats.herokuapp.com/?user=MrJuuls&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
-
-</div>
-
----
-
 <p align="left">
  💜 Thanks for stopping by! Let's build something great.
 </p>
