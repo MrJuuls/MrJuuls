@@ -33,7 +33,7 @@ A VR environment that responds to your breathing and heartbeat in real time. The
 
 **Stargazer** — personal project
 
-An astronomy exploration game where you gradually unlock the night sky — from constellations with the naked eye to distant galaxies through a telescope. Real star data, procedural shaders, no two nights the same.
+An astronomy exploration game where you gradually unlock the night sky. From constellations with the naked eye to distant galaxies through a telescope. Real star data, procedural shaders, no two nights the same.
 
 ---
 
